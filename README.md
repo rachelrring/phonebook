@@ -1,6 +1,9 @@
 # phonebook
 
-Given  names and phone numbers, assemble a phone book that maps friends' names to their respective phone numbers.
-You will then be given an unknown number of names to query your phone book for.
-For each  queried, print the associated entry from your phone book on a new line in the form name=phoneNumber;
-if an entry for  is not found, print Not found instead.
+I craeted this project to practice the use of dictionaries
+
+This project is a simple phonebook app that allows a user:
+  - input contacts (name and number)
+  - print phone book (name and numbers)
+  - print only contact names
+  - search through phonebook for a name and returns the name=phoneNumber
